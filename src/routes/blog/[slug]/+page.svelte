@@ -79,7 +79,7 @@
          {article.frontmatter.nicedate} &#8226; Reading time to be added
       </span>
       <article
-         class="leading-normal prose-sm prose md:prose lg:prose-lg xl:prose-xl max-w-screen-10 article-reading-time"
+         class="leading-normal prose prose-lg xl:prose-xl max-w-screen-10 article-reading-time"
       >
          {@html article.html}
       </article>
